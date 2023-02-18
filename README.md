@@ -8,3 +8,4 @@ Repo ini berisi progress belajarku mengenai programming
 
 **19 Februari 2023**
 * Belajar bahasa pemrograman JavaScript
+* Belajar Cloud Computing
